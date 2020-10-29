@@ -1,1 +1,2 @@
-# mangoshooter
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
